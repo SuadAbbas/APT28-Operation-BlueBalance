@@ -1,4 +1,5 @@
 # APT28 Operation BlueBalance Investigation
+![Knowledge Graph](KnowledgeGraph.png)
 
 This repository contains my investigation report and Obsidian Knowledge Graph created during the APT28 Operation BlueBalance scenario.
 
